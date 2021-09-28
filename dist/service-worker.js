@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.45f1f446fcb0cb2accf6da985460f1c3.js"
+  "/precache-manifest.74c213cd20e38812c0241e5e0757bcd3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "congdongchungcu-fe-demo"});
